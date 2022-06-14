@@ -5,7 +5,7 @@
 
 ## Download
 
-You can get access to The Lost Forest source code by using one of the following ways:
+You can get access to Tall Man Run Clone source code by using one of the following ways:
 
 - [:sparkles: Download Source Code](https://github.com/elifyener/TallManRunClone/archive/master.zip)
 - :fire:  Clone the repository locally:
